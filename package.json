@@ -10,7 +10,11 @@
   },
   "dependencies": {
     "@tailwindcss/forms": "^0.5.7",
+    "@vuelidate/core": "^2.0.3",
+    "@vuelidate/validators": "^2.0.4",
+    "boxicons": "^2.1.4",
     "firebase": "^10.8.0",
+    "flowbite": "^2.3.0",
     "vue": "^3.4.15",
     "vue-router": "^4.2.5",
     "vuex": "^4.0.2"
